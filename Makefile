@@ -1,2 +1,2 @@
 all:
-	pandoc Resume.md -o Resume.html -c resume.css
+	pandoc Resume.md -o index.html -c resume.css
