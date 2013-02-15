@@ -1,6 +1,8 @@
 # 李孟翰 Meng-Han Lee
 
----
+
+------------------------------------------------------------
+
 
 Contact Info
 ------------
@@ -8,7 +10,9 @@ Contact Info
 - 0933-169170
 - <sunrisedm4@gmail.com>
 
----
+
+------------------------------------------------------------
+
 
 Links
 -----
@@ -17,7 +21,9 @@ Links
 - [Blog](http://blog.dm4.tw)
 - [Resume (html version)](http://resume.dm4.tw)
 
----
+
+------------------------------------------------------------
+
 
 Eductation
 ----------
@@ -34,30 +40,43 @@ Eductation
 - ####  Taipei Municipal Jianguo High School, Taipei, Taiwan (Sep. 2004 - Jul. 2007)
     *   Math and Science Gifted Class
 
----
+
+------------------------------------------------------------
+
 
 Programming Skills
 ------------------
 
-- ####  Experienced Language
-    *   C
-    *   Perl
-    *   Shell Script
-    *   Objective-C
-    *   Python
-    *   HTML/CSS
-- ####  Other Language
-    *   Java
-    *   Javascript
-    *   SQL
-    *   C++
-    *   Vim Script
-- ####  Operating System
-    *   Mac OSX
-    *   Linux
--   Familiar with `vim` , `git`
+#### Experienced Language
 
----
+-   C
+-   Perl
+-   Shell Script
+-   Objective-C
+-   Python
+-   HTML/CSS
+
+#### Other Language
+
+-   Java
+-   Javascript
+-   SQL
+-   C++
+-   Vim Script
+
+#### Other Tools
+
+-   vim
+-   git
+
+#### Operating System
+
+-   Mac OSX
+-   Linux
+
+
+------------------------------------------------------------
+
 
 Working Experience
 ------------------
@@ -78,7 +97,9 @@ Working Experience
         cron jobs, web server, shell script, firewall,
         system security.
 
----
+
+------------------------------------------------------------
+
 
 Project Experience
 ------------------
@@ -124,10 +145,12 @@ Project Experience
     *   Parsing `tcpdump` logs using `perl` and save the
         session tokens into `sqlite`.
 
----
 
-Honor and Award
----------------
+------------------------------------------------------------
+
+
+Honor and Awards
+----------------
 
 -   __3rd place__, [Information security Competition
     of Institute of Information Industry, Taiwan,
@@ -148,7 +171,9 @@ Honor and Award
     *   Highest honor for students with top 5%
         academic ranking each semester.
 
----
+
+------------------------------------------------------------
+
 
 Research Experience
 -------------------
@@ -157,10 +182,12 @@ Research Experience
     [Lab] (Jun. 2010 - present)
     *   Advisor: Prof. Mike Y. Chen
 
----
 
-Publication
------------
+------------------------------------------------------------
+
+
+Publications
+------------
 
 -   Neng-Hao Yu, Sung-Sheng Tsai, I-Chun Hsiao,
     Dian-Je Tsai, __Meng-Han Lee__, Mike Y. Chen,
@@ -176,7 +203,8 @@ Publication
     on Grasp of Mobile Devices", in Proceedings of
     [CHI 2013][CHI2013]
 
----
+
+------------------------------------------------------------
 
 [TUIC]:             http://tuic.tw
 [Mark2Deck]:        https://github.com/dm4/Mark2Deck
@@ -185,7 +213,7 @@ Publication
 [deck.js]:          http://imakewebthings.github.com/deck.js/
 [Lab]:              http://ntumobile.org
 [Clip-on]:          http://dl.acm.org/citation.cfm?id=2047243
-[UIST2011]:             http://www.acm.org/uist/uist2011/
+[UIST2011]:         http://www.acm.org/uist/uist2011/
 [Gold Shield 2011]: http://security.cisanet.org.tw/
 [Gold Shield 2012]: http://is.w18.noonspace.tw/main/modules/MySpace/index.php?sn=is&pg=ZC120
 [HIT2011]:          http://hitcon.org/hit2011
