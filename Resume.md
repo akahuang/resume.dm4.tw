@@ -45,35 +45,28 @@ Eductation
 ------------------------------------------------------------
 
 
-Programming Skills
-------------------
+Proficiency
+-----------
 
-#### Experienced Language
+- #### Programming Languages
+    -   C
+    -   Perl
+    -   Shell Script
+    -   Objective-C
+    -   Python
+    -   Java
+    -   HTML/CSS
+    -   Javascript
+    -   SQL
+    -   Vim Script
 
--   C
--   Perl
--   Shell Script
--   Objective-C
--   Python
--   HTML/CSS
-
-#### Other Language
-
--   Java
--   Javascript
--   SQL
--   C++
--   Vim Script
-
-#### Other Tools
-
--   vim
--   git
-
-#### Operating System
-
--   Mac OSX
--   Linux
+- #### Skills
+    -   vim
+    -   git
+    -   Web Security
+    -   Web Programming
+    -   iOS Programming
+    -   Android Programming
 
 
 ------------------------------------------------------------
@@ -123,6 +116,12 @@ Project Experience
     *   myID AR uses 2D QR Code as the marker of
         Augmented Reality application to construct
         the social AR app.
+
+#### Android Projects
+
+-   [ContentProvider Analysis][contentprovider-androguard]
+    *   Static analysis scripts about ContentProvider using
+        [Androguard][androguard] framework.
 
 #### Web Projects
 
@@ -223,3 +222,5 @@ Publications
 [vim-boshiamy]:     https://github.com/dm4/vim-boshiamy
 [CHI2013]:          http://chi2013.acm.org/
 [NTU CSIE Train]:   http://www.csie.ntu.edu.tw/train/
+[androguard]:       https://code.google.com/p/androguard/
+[contentprovider-androguard]: https://github.com/dm4/contentprovider-androguard
