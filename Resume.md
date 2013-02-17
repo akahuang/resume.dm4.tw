@@ -20,6 +20,7 @@ Links
 - [Github](http://github.com/dm4)
 - [Blog](http://blog.dm4.tw)
 - [Resume (html version)](http://resume.dm4.tw)
+- [Resume (plain text)](http://resume.dm4.tw/Resume.md)
 
 
 ------------------------------------------------------------
