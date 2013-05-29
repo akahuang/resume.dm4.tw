@@ -192,10 +192,10 @@ Publications
 
 -   Lung-Pan Cheng, __Meng Han Lee__, Che-Yang Wu,
     Fang-I Hsiao, Yen-Ting Liu, Hsiang-Sheng Liang,
-    Yi-Ching Chiu, Ming-Sui Lee, Mike Y. Chen, "
+    Yi-Ching Chiu, Ming-Sui Lee, Mike Y. Chen, "[
     iRotateGrasp: Automatic Screen Rotation based
-    on Grasp of Mobile Devices", in Proceedings of
-    [CHI 2013][CHI2013]
+    on Grasp of Mobile Devices][iRotateGrasp]", in
+    Proceedings of [CHI 2013][CHI2013]
 
 
 ------------------------------------------------------------
@@ -218,3 +218,4 @@ Publications
 [NTU CSIE Train]:   http://www.csie.ntu.edu.tw/train/
 [androguard]:       https://code.google.com/p/androguard/
 [contentprovider-androguard]: https://github.com/dm4/contentprovider-androguard
+[iRotateGrasp]:     http://dl.acm.org/citation.cfm?id=2380305
