@@ -123,12 +123,6 @@ Project Experience
     *   Static analysis scripts about ContentProvider using
         [Androguard][androguard] framework.
 
-#### Web Projects
-
--   [sunriser.tw](http://sunriser.tw)
-    *   Development in `HTML`, `CSS`, `PHP`, `jQeury`,
-        `Ajax`.
-
 #### Personal Projects
 
 -   [Mark2Deck][Mark2Deck]
